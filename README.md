@@ -1,4 +1,4 @@
-# Software Design: Question Paper (OBE / Bloom / BNQF)
+# Software Design: Question Paper 
 
 An outcome-based (OBE) question paper on **Software Design**, aligned to Bloom's Taxonomy and the BNQF cognitive domain. Every question is mapped to a Course Outcome (CO).
 
@@ -8,7 +8,7 @@ An outcome-based (OBE) question paper on **Software Design**, aligned to Bloom's
 | Time | 1 hour |
 | Sections | A (8 marks), B (16 marks), C (16 marks) |
 | Bloom levels | K = Knowledge, U = Understanding, A = Application |
-| Files | `Software_Design_Question_Paper.docx` (printable paper) |
+
 
 ## Topics Covered
 
