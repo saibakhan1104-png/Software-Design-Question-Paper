@@ -20,7 +20,6 @@ An outcome-based (OBE) question paper on **Software Design**, aligned to Bloom's
 
 ## Course Outcomes (CO)
 
-> These are assumed from the course topics. Replace them with your official COs if they differ.
 
 | CO | Statement |
 |---|---|
