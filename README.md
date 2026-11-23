@@ -96,10 +96,4 @@ For the Façade pattern, describe the following:
 | B | 16 | U (40%) | CO1 to CO5 (any 4 of 5 attempted) |
 | C | 16 | U and A (40%) | CO3, CO4, CO5 (any 2 of 3 attempted) |
 
-## Repository Structure
 
-```
-.
-├── README.md
-└── Software_Design_Question_Paper.docx
-```
